@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saphid
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on LaMatrix clone
+- 👀 I’m interested in AI/ML
+- 🌱 I’m currently learning how to agent my self out of corners the agents put me in
 - 📫 How to reach me @alexpsouthwell and other places
 
 <!---
